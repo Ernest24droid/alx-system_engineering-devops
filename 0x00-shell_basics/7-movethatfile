@@ -1,2 +1,2 @@
-#!/bin/bash
- mv /tmp/betty /tmp/my_first_directory
+[master 69b7ff0] Task 7
+ 1 file changed, 1 insertion(+), 1 deletion(-)
