@@ -3,3 +3,4 @@ script that adds execution permission to the owner, the group owner and the othe
 scrpit that prints no permission to owner and group owner, all permissions to others
 script that print permission to -rwxr-x-wx
 script that sets the mode of the file hello the same as olleh’s mode
+scrpt that adds executional command to subdirctories of current directory for owner,group owner and users
